@@ -1,6 +1,7 @@
 public class O1_Lexical_Analayser {
 
 
+
     public static void simplefindAnalyser(String s){
         char ch[] = s.toCharArray();
         String w = "";
