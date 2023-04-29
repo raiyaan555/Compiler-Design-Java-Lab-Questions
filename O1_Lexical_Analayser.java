@@ -6,6 +6,7 @@ public class O1_Lexical_Analayser {
         char ch[] = s.toCharArray();
         String w = "";
 
+
         for (char c: ch){
             if (c!=32){
                 if(Character.isLetter(c)){
